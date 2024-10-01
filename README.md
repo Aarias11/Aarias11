@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://alan-arias.vercel.app/](https://alan-arias.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alanarias.com](https://alanarias.com)
 
 - ⚡ Fun fact **I started a Youtube Channel to help me and others with full-stack development**
 
