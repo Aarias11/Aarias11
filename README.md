@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I'm currently building **Boardly**, a full-stack project management app
+- 🚧 I’m currently building Build Like, a curated library of full-page websites with sections and iOS app flows — built for designers & developers who need real-world inspiration at every breakpoint.
 - 📚 Learning Python + diving deeper into backend architecture
 - 🎥 I run a YouTube channel to help other developers grow while I grow too
 - 💡 Passionate about turning clean UI into scalable, secure code
