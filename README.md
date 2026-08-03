@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Alan
 
-**Software Engineer (4+ yrs) who builds production systems and investigates real threats — RBAC, OAuth, and audit-logging work alongside honeypot and threat analysis, with a Criminal Justice degree behind the investigative rigor.
+**Software Engineer (4+ yrs) who builds production systems and security tooling** — RBAC, OAuth, and audit-logging work alongside honeypot analysis, detection tooling, and threat research, with a Criminal Justice degree behind the investigative rigor.
 
 🌐 [Portfolio](http://alanarias.com) • 🔎 [security-casefiles](https://github.com/Aarias11/security-casefiles) • 📺 [YouTube](https://youtube.com/@AlanCodes) • 🐦 [X](https://x.com/Alancodes11) • 💼 [LinkedIn](https://linkedin.com/in/aarias11)
 
 ---
 
 ## About Me
+- 🛠 Built and operate **BuildLike**, a production design-research platform — RBAC, OAuth/PKCE, audit logging, rate limiting, live Stripe billing — as Founder & Engineer at DevStacksLabs.
 - 🔍 Documenting real security research in **[security-casefiles](https://github.com/Aarias11/security-casefiles)** — honeypot/threat analysis, OSINT investigation, and detection tooling, written up against MITRE ATT&CK, PTES, and the Diamond Model.
 - 🛡 Studying for **CompTIA Security+**, in progress.
-- 🛠 Built and operate **BuildLike**, a production design-research platform — RBAC, OAuth/PKCE, audit logging, rate limiting, live Stripe billing — as Founder & Engineer at DevStacksLabs.
 - 🎓 BS Criminal Justice — not used professionally until now; the chain-of-custody and evidentiary rigor it teaches shows up directly in how I document investigations.
 - 🎥 35+ tutorials on YouTube, 600K+ impressions, 600+ learners — same clarity now going into explaining detection/threat concepts.
 
