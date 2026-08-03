@@ -1,18 +1,17 @@
-# 👋 Hey, I’m Alan
+# 👋 Hey, I'm Alan
 
-**Full-Stack Software Engineer** passionate about turning ideas into scalable, user-friendly products.  
-I specialize in building full-stack applications with React, Next.js, Node.js, and PostgreSQL — and I share my journey through developer content on YouTube.  
+**Software Engineer (4+ yrs) running independent security research for the past couple years** — production auth, RBAC, and audit-logging work alongside honeypot and threat analysis, with a Criminal Justice degree behind the investigative rigor.
 
-🌐 [Portfolio](http://alanarias.com) • 📺 [YouTube](https://youtube.com/@AlanCodes) • 💼 [LinkedIn](https://linkedin.com/in/aarias11)
+🌐 [Portfolio](http://alanarias.com) • 🔎 [security-casefiles](https://github.com/Aarias11/security-casefiles) • 📺 [YouTube](https://youtube.com/@AlanCodes) • 🐦 [X](https://x.com/Alancodes11) • 💼 [LinkedIn](https://linkedin.com/in/aarias11)
 
 ---
 
-## 🚀 About Me
-- 🛠 Currently building **[Build Like](#)** — a visual library of UI/UX patterns with 5,000+ screenshots, structured search, and Supabase media pipeline.  
-- 🤖 Exploring **AI-powered tools** with OpenAI + Python (e.g., JobStacks job parsing).  
-- 🎥 Content creator on YouTube — 35+ tutorials, 600K+ impressions, 600+ learners.  
-- 💡 Passionate about transforming Figma prototypes into scalable, accessible code.  
-- 🔐 Always learning — currently diving into **backend architecture** and **web app security**.  
+## About Me
+- 🔍 Documenting real security research in **[security-casefiles](https://github.com/Aarias11/security-casefiles)** — honeypot/threat analysis, OSINT investigation, and detection tooling, written up against MITRE ATT&CK, PTES, and the Diamond Model.
+- 🛡 Studying for **CompTIA Security+**, in progress.
+- 🛠 Built and operate **BuildLike**, a production design-research platform — RBAC, OAuth/PKCE, audit logging, rate limiting, live Stripe billing — at DevStacksLabs, my own engineering venture.
+- 🎓 BS Criminal Justice, John Jay College — not used professionally until now; the chain-of-custody and evidentiary rigor it teaches shows up directly in how I document investigations.
+- 🎥 35+ tutorials on YouTube, 600K+ impressions, 600+ learners — same clarity now going into explaining detection/threat concepts.
 
 ---
 
@@ -41,39 +40,18 @@ I specialize in building full-stack applications with React, Next.js, Node.js, a
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured
 
-### 🔹 [Build Like](#) – Visual Library of UI/UX Patterns  
-A platform to explore, filter, and save real-world UI/UX patterns across 40+ companies (5,000+ screenshots).  
-- PostgreSQL + Prisma schema for structured search.  
-- Supabase storage for screenshots & video previews.  
-- Google OAuth + OTP authentication with Favorites/Collections.  
+### 🔍 [security-casefiles](https://github.com/Aarias11/security-casefiles)
+Real security investigations, documented like an actual analyst would — methodology, findings, framework mapping. First case in progress.
 
----
+### 🔧 [boosted-ridekit](https://github.com/Aarias11/boosted-ridekit)
+Open-source Python toolkit for connecting to Boosted vehicles over BLE and reading live telemetry.
 
-### 🔹 [JobStacks](#) – AI-Powered Job Tracking  
-A job management tool with automated scraping + OpenAI parsing.  
-- Extracts structured data (title, tech stack, salary, requirements).  
-- MongoDB + Node.js/Express backend.  
-- Saves users minutes per posting by automating manual job parsing.  
-
----
-
-### 🔹 [PowerSpot](#) – EV Charging App  
-Community-driven app for discovering EV charging stations.  
-- Built with React, Tailwind, Firebase.  
-- Integrated Google Maps, Places, and NREL APIs.  
-- Features user reviews, ratings, and personalized recommendations.  
-
----
-
-## 📺 Featured Content
-🎥 **YouTube Channel: [AlanCodes](https://youtube.com/@AlanCodes)**  
-- 35+ tutorials on React, Node.js, APIs, and modern workflows.  
-- 600K+ impressions, growing a developer community of 600+.  
+### 🏗 BuildLike (private)
+Production design-research platform — 69 apps, 5,000+ pages indexed, RBAC, audit logging, live Stripe billing. Case study on [alanarias.com](http://alanarias.com).
 
 ---
 
 ## 📈 GitHub Stats
-![Alan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarias11&show_icons=true&theme=radical)
-
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarias11&show_icons=true&theme=radical)
