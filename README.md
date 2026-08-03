@@ -9,8 +9,8 @@
 ## About Me
 - 🔍 Documenting real security research in **[security-casefiles](https://github.com/Aarias11/security-casefiles)** — honeypot/threat analysis, OSINT investigation, and detection tooling, written up against MITRE ATT&CK, PTES, and the Diamond Model.
 - 🛡 Studying for **CompTIA Security+**, in progress.
-- 🛠 Built and operate **BuildLike**, a production design-research platform — RBAC, OAuth/PKCE, audit logging, rate limiting, live Stripe billing — at DevStacksLabs, my own engineering venture.
-- 🎓 BS Criminal Justice, John Jay College — not used professionally until now; the chain-of-custody and evidentiary rigor it teaches shows up directly in how I document investigations.
+- 🛠 Built and operate **BuildLike**, a production design-research platform — RBAC, OAuth/PKCE, audit logging, rate limiting, live Stripe billing — as Founder & Engineer at DevStacksLabs.
+- 🎓 BS Criminal Justice — not used professionally until now; the chain-of-custody and evidentiary rigor it teaches shows up directly in how I document investigations.
 - 🎥 35+ tutorials on YouTube, 600K+ impressions, 600+ learners — same clarity now going into explaining detection/threat concepts.
 
 ---
