@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Alan
 
-**Software Engineer (4+ yrs) running independent security research for the past couple years** — production auth, RBAC, and audit-logging work alongside honeypot and threat analysis, with a Criminal Justice degree behind the investigative rigor.
+**Software Engineer (4+ yrs) who builds production systems and investigates real threats — RBAC, OAuth, and audit-logging work alongside honeypot and threat analysis, with a Criminal Justice degree behind the investigative rigor.
 
 🌐 [Portfolio](http://alanarias.com) • 🔎 [security-casefiles](https://github.com/Aarias11/security-casefiles) • 📺 [YouTube](https://youtube.com/@AlanCodes) • 🐦 [X](https://x.com/Alancodes11) • 💼 [LinkedIn](https://linkedin.com/in/aarias11)
 
